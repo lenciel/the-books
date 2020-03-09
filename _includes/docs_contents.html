@@ -1,0 +1,22 @@
+<div class="unit one-fifth hide-on-mobiles">
+  <aside>
+    {% if page.collection == "books" %}
+    {% assign book_name = page.title %}
+    {% assign book_collection = site.collections | where: "label", page.collection_label | first %}
+    {% else %}
+    {% assign book_collection = site.collections | where: "label", page.collection | first %}
+    {% assign book_name = book_collection.book_name %}
+    {% endif %}
+    <h4>{{ book_name }}</h4>
+    <ul>
+      {% for doc in book_collection.docs %}
+      {{ if doc.father_menu_name and doc.father_menu_name != "" and doc.father_menu_name != nil }}
+      <li>{{ doc.father_menu_name }}</li>
+      {{ elesif }}
+      <li {%- if page.url == doc.url %} class="current" {%- endif -%}>
+        <a href="{{ doc.url }}">{{ doc.menu_name }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </aside>
+</div>

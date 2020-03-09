@@ -1,0 +1,11 @@
+*.gem
+.bundle
+.*-cache
+_site
+example/_site
+Gemfile.lock
+.DS_Store
+/.jekyll-metadata
+/example/.jekyll-metadata
+/_site_bak
+/_ftp

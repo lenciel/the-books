@@ -1,0 +1,21 @@
+<div class="docs-nav-mobile unit whole show-on-mobiles">
+  <select onchange="if (this.value) window.location.href=this.value">
+    <option value="">显示目录…</option>
+
+    {% if page.collection == "books" %}
+    {% assign book_name = page.title %}
+    {% assign book_collection = site.collections | where: "label", page.collection_label | first %}
+    {% else %}
+    {% assign book_collection = site.collections | where: "label", page.collection | first %}
+    {% assign book_name = book_collection.book_name %}
+    {% endif %}
+
+    <optgroup label="{{ book_name }}">
+      {% for doc in book_collection.docs %}
+      <option value="{{ doc.url }}">
+        {{ doc.menu_name }}
+      </option>
+      {% endfor %}
+    </optgroup>
+  </select>
+</div>
