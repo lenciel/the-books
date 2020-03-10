@@ -491,6 +491,25 @@ aside {
     &.current a {
         color: #f90;
     }
+
+    ul {
+      li {
+        font-size: 0.95em;
+        margin: 0 auto 0.38em 1.33em;
+
+        &.current a:before {
+          content: "";
+          border-color: transparent transparent transparent #444;
+          border-style: solid;
+          border-width: 30px;
+          width: 0;
+          height: 0;
+          position: absolute;
+          top: -20px;
+          left: -60px;
+        }
+      }
+    }
   }
 }
 

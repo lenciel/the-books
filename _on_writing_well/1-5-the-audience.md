@@ -1,6 +1,7 @@
 ---
 title: The Audience
-menu_name: '1. 原则 - 受众'
+father_menu_name: '1. 原则'
+menu_name: '受众'
 ---
 
 Soon after you confront the matter of preserving your identity, another question will occur to you: "Who am I writing for?*'

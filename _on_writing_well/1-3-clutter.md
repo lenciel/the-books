@@ -1,6 +1,7 @@
 ---
 title: Clutter
-menu_name: '1. 原则 - 杂乱'
+father_menu_name: '1. 原则'
+menu_name: '杂乱'
 ---
 
 Fighting clutter is like fighting weeds—the writer is always slightly behind. New varieties sprout overnight, and by noon they are part of American speech. Consider what President Nixon's aide John Dean accomplished in just one day of testi.mony on television during the Watergate hearings. The next day everyone in America was saying "at this point in time" instead of "now."

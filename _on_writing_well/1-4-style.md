@@ -1,6 +1,7 @@
 ---
 title: Style
-menu_name: '1. 原则 - 风格'
+father_menu_name: '1. 原则'
+menu_name: '风格'
 ---
 
 So much for early warnings about the bloated monsters that lie in ambush for the writer trying to put together a clean English sentence.

@@ -1,0 +1,45 @@
+{% if page.collection == "books" %}
+{% assign book_name = page.title %}
+{% assign book_collection = site.collections | where: "label", page.collection_label | first %}
+{% else %}
+{% assign book_collection = site.collections | where: "label", page.collection | first %}
+{% assign book_name = book_collection.book_name %}
+{% endif %}
+
+{% capture doc_url_array_string %}
+{% for doc in book_collection.docs %}
+  {% assign last_last = forloop.last %}
+  {% for url in doc.url %}
+    {{url}}{% unless forloop.last and last_last %},{% endunless %}
+  {% endfor %}
+{% endfor %}
+{% endcapture %}
+{%- assign doc_url_array = doc_url_array_string | strip_newlines | split: ',' -%}
+
+{% for doc_url in doc_url_array %}
+  {%- assign document_url = doc_url | strip -%}
+  {% if document_url == page.url %}
+    <div class="section-nav">
+      <div class="left align-right">
+          {% if forloop.first %}
+            <span class="prev disabled">Back</span>
+          {% else %}
+            {% assign previous = forloop.index0 | minus: 1 %}
+            {% assign previous_page = doc_url_array[previous] | strip_newlines | split: ','  %}
+            <a href="{{ previous_page[0] | strip }}" class="prev">Back</a>
+          {% endif %}
+      </div>
+      <div class="right align-left">
+          {% if forloop.last %}
+            <span class="next disabled">Next</span>
+          {% else %}
+            {% assign next = forloop.index0 | plus: 1 %}
+            {% assign next_page = doc_url_array[next] | strip_newlines | split: ',' %}
+            <a href="{{ next_page[0] | strip }}" class="next">Next</a>
+          {% endif %}
+      </div>
+    </div>
+    <div class="clear"></div>
+    {% break %}
+  {% endif %}
+{% endfor %}

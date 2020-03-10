@@ -1,6 +1,6 @@
 ---
 title: Simplicity
-menu_name: '1. 原则 - 简洁'
+menu_name: '简洁'
 ---
 
 Clutter is the disease of American writing. We are a society strangling in unnecessary words, circular constructions, pompous frills and meaningless jargon.

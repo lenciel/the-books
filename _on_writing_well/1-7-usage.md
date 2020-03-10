@@ -1,6 +1,8 @@
 ---
-title: Words
-menu_name: '1. 原则 - 遣词用句'
+title: Usage
+last_in_chap: true
+menu_name: '使用'
+father_menu_name: '1. 原则'
 ---
 
 There is a kind of writing that might be called journalese, and its the death of freshness in anybody's style. It's the common currency of newspapers and of magazines like People—a mix.ture of cheap words, made-up words and clichés that have become so pervasive that a writer can hardly help using them. You must fight these phrases or you'll sound like every hack. You'll never make your mark as a writer unless you develop a respect for words and a curiosity about their shades of meaning that is almost obsessive. The English language is rich in strong and supple words. Take the time to root around and find the ones you want.
