@@ -4,12 +4,9 @@
 - title: Books
   link: /books/
   show_on_mobile: true
-# - title: Resources
-#   link: /resources/
-#   show_on_mobile: true
-# - title: Showcase
-#   link: /showcase/
-#   show_on_mobile: false
-# - title: News
-#   link: /news/
+- title: Notes
+  link: /notes/
+  show_on_mobile: true
+- title: Quotes
+  link: /quotes/
   show_on_mobile: true

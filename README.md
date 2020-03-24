@@ -1,52 +1,35 @@
-# books-notes
+# the-books
 
-Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes` and your sass in `_sass`. To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
+一个放我自己读书笔记或者翻译的书的静态站点。使用 Jekyll 但是做了一些定制：
 
-## Installation
+- 支持自动 `father-menu-name` 生成二级菜单（书很多有大小章节）。
+- 支持根据文件名的顺序自动生成翻页（section nav）[^1]。
+- 
+## 安装运行
 
-Add this line to your Jekyll site's `Gemfile`:
+当成一个正常的 Jekyll 网站就行。
 
-```ruby
-gem "jekyll-lenciel-theme"
+```bash
+bundle install
+jekyll s -i -w
 ```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: jekyll-lenciel-theme
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-lenciel-theme
 
 ## Usage
 
-### how to change js/css
+### 添加一本书
 
-to update css, update scss, use 'compass compile'.
+需要下面几个步骤：
 
-to update js, just update it and see take care of app.js yourself.
+1. 在 `_config.yml` 里面声明一个 `collection`，注意 Jekyll 的默认设置一个 collection 的文件是放在它的 label 前面加下划线的目录里面。
+2. 在 `_data/docs_nav.yml` 里添加相应声明
+3. 在 `books` 文件夹里面创建一个书的入口页
+
+然后在 collection 目录里面添加文件就好。
+
+
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/lenciel/jekyll-lenciel-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
-
-Build the gem and push it to rubygems site:
-
-`gem build jekyll-lenciel-theme.gemspec`
-`gem push jekyll-lenciel-theme-*.gem`
+Let’s see what will happen.
 
 ## License
 

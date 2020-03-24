@@ -1,8 +1,8 @@
 ---
 version: 1.0.0
-name: Jekyll • Simple, blog-aware, static sites
-description: Transform your plain text into static websites and blogs
-url: https://jekyllrb.com
+name: Lenciel's Books
+description: 翻译的书以及读书笔记
+url: https://books.lenciel.com
 repository: https://github.com/jekyll/jekyll
 logo: "/img/logo-2x.png"
 collections:
@@ -10,9 +10,13 @@ collections:
     permalink: "/books/:collection/:path/"
     book_name: "On Writing Well"
     output: true
-  design_data_intensive_app:
+  # design_data_intensive_app:
+  #   permalink: "/books/:collection/:path/"
+  #   book_name: "Design Data Intensive App"
+  #   output: true
+  the_north_star_playbook:
     permalink: "/books/:collection/:path/"
-    book_name: "Design Data Intensive App"
+    book_name: "The North Star Playbook"
     output: true
   books:
     permalink: "/books/:path/"
