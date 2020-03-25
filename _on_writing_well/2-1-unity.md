@@ -1,8 +1,8 @@
 ---
-title: Usage
-last_in_chap: true
-menu_name: '用法'
-father_menu_name: '1. 原则'
+title: Unity
+first_in_chap: true
+father_menu_name: '2. 方法'
+menu_name: 'Unity'
 ---
 
 All this talk about good words and bad words brings us to a gray but important area called "usage." What is good usage? What is good English? What newly minted words is it O.K. to use, and who is to be the judge? Is it O.K. to use "O.K."?
@@ -11,15 +11,15 @@ All this talk about good words and bad words brings us to a gray but important a
 
 Earlier I mentioned an incident of college students hassling the administration, and in the last chapter I described myself as a word freak. Here are two fairly recent arrivals. "Hassle" is both a verb and a noun, meaning to give somebody a hard time, or the act of being given a hard time, and anyone who has ever been hassled for not properly filling out Form 35-BX will agree that the word sounds exactly right. "Freak" means an enthusiast, and there's no missing the aura of obsession that goes with call­ ing someone a jazz freak, or a chess freak, or a sun freak, though it would probably be pushing my luck to describe a man who compulsively visits circus sideshows as a freak freak.
 
-早些时候，我提到一个大学生攻击学校管理者的事件，在最后一章，我把自己描述为一个「词语狂」。 这是两个相当新的词。 “Hassle”既是一个动词也是一个名词，意思是让某人难堪，或者让某人难堪的行为，曾经因为没有正确填写表格35-BX 而受到麻烦的任何人都会同意这个词听起来非常正确。 “Freak”的意思是一个狂热爱好者，把某人称为爵士乐狂魔、象棋狂魔或者太阳狂魔是为其痴迷程度加上光环，尽管把一个强迫性地去马戏团看杂耍表演的男人描述成一个 freak 狂魔可能会让我有点受不了。
+早些时候，我提到一个大学生骚扰行政部门的事件，在最后一章，我把自己描述为一个词语狂。 这里是两个相当新近到达的。 “Hassle”既是一个动词也是一个名词，意思是让某人难堪，或者让某人难堪的行为，曾经因为没有正确填写表格35-BX 而受到麻烦的任何人都会同意这个词听起来非常正确。 “Freak”的意思是一个狂热爱好者，把某人称为爵士乐迷、象棋迷或者太阳怪人是一种痴迷的光环，尽管把一个强迫性地去马戏团的杂耍表演的男人描述成一个怪物可能会把我的运气推到极限。
 
 Anyway, I accept these two usages gladly. I don't consider them slang, or put quotation marks around them to show that I'm mucking about in the argot of the youth culture and really know better. They're good words and we need them. But I won't accept "notables" and "greats" and "upcoming" and many other newcomers. They are cheap words and we don't need them.
 
-无论如何，我欣然接受这两种用法。 我不认为它们是俚语，也不在它们旁边加引号，以表明我在年轻文化的暗语中胡闹，而其实知道得更多。 这些都是好话，我们需要它们。 但我不会接受“notables”、“greats”、“upcoming”以及其他许多新词。 它们是廉价的词汇，我们不需要它们。
+无论如何，我欣然接受这两种用法。 我不认为它们是俚语，也不在它们旁边加引号，以表明我在年轻文化的暗语中胡闹，而且真的知道得更多。 这些都是好话，我们需要它们。 但我不会接受“知名人士”、“伟大人物”、“即将到来的人”以及其他许多新人。 它们是廉价的词汇，我们不需要它们。
 
 Why is one word good and another word cheap? I can't give you an answer, because usage has no fixed boundaries. Lan­guage is a fabric that changes from one week to another, adding new strands and dropping old ones, and even word freaks fight over what is allowable, often reaching their decision on a wholly subjective basis such as taste ("notables" is sleazy). Which still leaves the question of who our tastemakers are.
 
-为什么一个词好，另一个词廉价？ 我不能给你一个答案，因为用法没有固定的界限。 语言是一种结构，每周都在不断变化，增加新的线索，放弃旧的线索，甚至词语狂魔争夺什么是允许的，往往达成他们的决定完全主观的基础上，如品味(“知名人士”是低俗的)。 这仍然留下了一个问题: 谁是我们的时尚缔造者。
+为什么一个词好，另一个词便宜？ 我不能给你一个答案，因为用法没有固定的界限。 语言是一种结构，从一周到另一周不断变化，增加新的线索，放弃旧的线索，甚至字的怪胎争夺什么是允许的，往往达成他们的决定完全主观的基础上，如品味(“知名人士”是低俗的)。 这仍然留下了一个问题: 谁是我们的时尚缔造者。
 
 The question was confronted by the editors of a brand-new dictionary, The American Heritage Dictionary, at the outset of their task in the mid-1960s. They assembled a "'Usage Panel" to help them appraise the new words and dubious constructions that had come knocking at the door. Which ones should be ushered in, which thrown out on their ear? The panel consisted of 104 men and women-mostly writers, poets, editors and teach­ers who were known for caring about the language and trying to use it well. I was a member of the panel, and over the next few years I kept getting questionnaires. Would I accept "final­ize" and "escalate"? How did I feel about "It's me"? Would I allow "like" to be used as a conjunction-like so many people do? How about "mighty," as in "mighty fine"?
 
@@ -27,7 +27,7 @@ The question was confronted by the editors of a brand-new dictionary, The Americ
 
 We were told that in the dictionary our opinions would be tab­ulated in a separate "Usage Note," so that readers could see how we voted. The questionnaire also left room for any comments we might feel impelled to make-a chance that the panelists seized avidly, as we found when the dictionary was published and our comments were released to the press. Passions ran high. "Good God, no! Never!" cried Barbara W. Tuchman, asked about the verb "to author." Scholarship hath no fury like that of a language purist faced with sludge, and I shared Tuchman's vow that "author" should never be authorized, just as I agreed with Lewis Mumford that the adverb "good" should be "left as the exclusive property of Ernest Hemingway."
 
-我们被告知，在字典中，我们的意见将被单独列成表格，以便读者可以看到我们是如何投票的。 调查问卷还为我们可能觉得有必要提出的任何评论留出了空间 —— 正如我们在字典出版和我们的评论向新闻界发布时所发现的那样，这是小组成员贪婪地抓住的一个机会。 情绪高涨。 “上帝啊，不！ 永远不会! ”，当被问及动词“ to author”时，巴巴拉·塔奇曼哭了起来。 我和塔奇曼一样，发誓永远不要授权“作者” ，就像我和刘易斯 · 芒福德一样，认为副词“good”应该成为“留给欧内斯特·海明威独有的财产”
+我们被告知，在字典中，我们的意见将被单独列成表格，以便读者可以看到我们是如何投票的。 调查问卷还为我们可能觉得有必要提出的任何评论留出了空间——正如我们在字典出版和我们的评论向新闻界发布时所发现的那样，这是小组成员贪婪地抓住的一个机会。 情绪高涨。 “上帝啊，不！ 永远不会! ” 当被问及动词“ to author”时，巴巴拉·塔奇曼哭了起来 我和塔奇曼一样，发誓永远不要授权“作者” ，就像我和刘易斯 · 芒福德一样，认为副词“ good”应该“留给欧内斯特·海明威独有的财产”
 
 But guardians of usage are doing only half their job if they merely keep the language from becoming sloppy. Any dolt can rule that the suffix "wise," as in "healthwise," is doltwise, or that being "rather unique" is no more possible than being rather pregnant. The other half of the job is to help the language grow by welcoming any immigrant that will bring ·strength or color. Therefore I was glad that 97 percent of us voted to admit "dropout," which is clean and vivid, but that only 47 percent would accept "senior citizen," which is typical of the pudgy new intruders from the land of sociology, where an illegal alien is now an undocumented resident. I'm glad we accepted "esca­late," the kind of verbal contraption I generally dislike but which the Vietnam war endowed with a precise meaning, complete with overtones of blunder.
 
@@ -75,23 +75,23 @@ It would be foolish to reject a word as perfect as "dropout," or to pretend that
 
 As for the area where our Usage Panel was conservative, we upheld most of the classic distinctions in grammar-"can" and "may," "fewer" and "less," "eldest" and "oldest," etc.-and decried the classic errors, insisting that "flout" still doesn't mean "flaunt," no matter how many writers flaunt their ignorance by flouting the rule, and that "fortuitous" still means "accidental," "disinterested" still means "impartial," and "infer" doesn't mean "imply." Here we were motivated by our love of the language's beautiful precision. Incorrect usage will lose you the readers you would most like to win. Know the difference between a "refer­ence" and an "allusion," between "connive" and "conspire," between "compare with" and "compare to." If you must use "comprise," use it right. It means "include"; dinner comprises meat, potatoes, salad and dessert.
 
-至于我们的用法委员会是保守派的领域，我们支持大多数经典语法区分——“ can”和“ may”、“ fewer”和“ less”、“eldest”和“oldest”等等，并谴责这些经典错误，坚称“ flout”仍然不意味着“flaunt” ，不管有多少作者通过藐视规则来炫耀自己的无知，“fortuitous”仍然意味着“accidental” ，“disinterested”仍然意味着“impartial” ，“infer”并不意味着“imply”。在这里，我们被自己对语言美丽精确性的热爱所激励。 不正确的使用会让你失去你最想赢得的读者。 知道“refer­ence”和“allusion”之间的区别，知道“connive”和“conspire”之间的区别，知道“compare with”和“compare to”之间的区别。如果你必须使用“ conclude” ，那就正确使用它。 它的意思是“包括” ; dinner由肉、土豆、沙拉和甜点组成。
+至于我们的用法委员会是保守派的领域，我们支持大多数经典语法区分——“ can”和“ may”、“ less”和“ less”、“最年长”和“最古老”等等，并谴责这些经典错误，坚称“ flout”仍然不意味着“炫耀” ，不管有多少作者通过藐视规则来炫耀自己的无知，“偶然”仍然意味着“偶然” ，“无私”仍然意味着“公正” ，“公正”并不意味着“暗示” 在这里，我们被自己对语言美丽精确性的热爱所激励。 不正确的使用会让你失去你最想赢得的读者。 知道“提及”和“典故”之间的区别，知道“共谋”和“合谋”之间的区别，知道“比较”和“比较”之间的区别 如果你必须使用“ conclude” ，那就正确使用它。 它的意思是“包括” ; 晚餐包括肉、土豆、沙拉和甜点。
 
 "I choose always the grammatical form unless it sounds affected," Marianne Moore explained, and that's finally where our panel took its stand. We were not pedants, so hung up on correctness that we didn't want the language to keep refreshing itself with phrases like "hung up." But that didn't mean we had to accept every atrocity that comes stumbling in.
 
-“我总是选择语法形式，除非它听起来有影响，”玛丽安 · 穆尔解释说，这就是我们小组最终采取的立场。 我们不是书呆子，对正确性如此执着，以至于我们不希望语言中不断出现像“hung up”这样的词语 但是，这并不意味着我们必须接受每一个偶然出现的暴行。
+“我总是选择语法形式，除非它听起来有影响，”玛丽安 · 穆尔解释说，这就是我们小组最终采取的立场。 我们不是书呆子，对正确性如此执着，以至于我们不希望语言中不断出现像“挂了”这样的词语 但是，这并不意味着我们必须接受每一个偶然出现的暴行。
 
 Meanwhile the battle continues. In 1980 the Usage Panel was reconstituted, and today I still receive ballots soliciting my opinion on new locutions: verbs like "definitize" ("Congress definitized a proposal"), nouns like "affordables," colloquialisms like "the bottom line" and strays like "into" ("He's into backgam­ mon and she's into jogging").
 
-与此同时，战斗还在继续。 1980年，用法小组重新组建，直到今天，我仍然收到关于新用法的投票，征求我的意见: 动词，如“definitize”(“Congress definitized a proposal”) ，名词，如“affordables” ，口语词，如“the bottom line” ，以及一些乱来的词，如“into”(“He's into backgam­ mon and she's into jogging”)。
+与此同时，战斗还在继续。 1980年，用法小组重新组建，直到今天，我仍然收到关于新用法的投票，征求我的意见: 动词，如“定义化”(“国会确定了一项提案”) ，名词，如“可供选择” ，口语词，如“底线” ，以及迷路，如“进入”(“他进入 backgam mon，她进入慢跑”)。
 
 It no longer takes a panel of experts to notice that jargon is flooding our daily life and language. President Carter signed an executive order directing that federal regulations be written "simply and clearly." President Clinton's attorney general, Janet Reno, urged the nation's lawyers to replace "a lot of legalese" with "small, old words that all people understand"-words like "right" and "wrong" and "justice." Corporations have hired consultants to make their prose less opaque, and even the insurance industry is trying to rewrite its policies to tell us in less disastrous English what redress will be ours when disaster strikes. Whether these efforts will do much good I wouldn't want to bet. Still, there's comfort in the sight of so many watch­ dogs standing Canute-like on the beach, trying to hold back the tide. That's where all careful writers ought to be-looking at every new piece of flotsam that washes up and asking "Do we need it?"
 
-不再需要一个专家小组就能注意到，行话正充斥着我们的日常生活和语言。 卡特总统签署了一项行政命令，要求将联邦法规写得“简单明了”。克林顿总统的司法部长珍妮特 · 里诺(Janet Reno)敦促美国的律师们，用“所有人都能理解的小而古老的词汇”——比如“正确”、“错误”和“公正”——取代“许多法律术语”。公司已经雇佣了顾问来使他们的文章不那么晦涩难懂，甚至保险业也在试图重写他们的政策，用不那么灾难性的英语告诉我们当灾难来临时我们会得到什么样的补偿。 这些努力是否会带来很多好处，我不敢打赌。 尽管如此，看到这么多看门狗像克努特一样站在海滩上，试图阻挡潮水，还是让人感到舒服。 这就是所有细心的作家应该注意的地方——看着每一块新的残骸，问自己: “我们需要它吗? ”
+不再需要一个专家小组就能注意到，行话正充斥着我们的日常生活和语言。 卡特总统签署了一项行政命令，要求将联邦法规写得“简单明了” 克林顿总统的司法部长珍妮特 · 里诺(Janet Reno)敦促美国的律师们，用“所有人都能理解的小而古老的词汇”——比如“正确”、“错误”和“公正”——取代“许多法律术语” 公司已经雇佣了顾问来使他们的文章不那么晦涩难懂，甚至保险业也在试图重写他们的政策，用不那么灾难性的英语告诉我们当灾难来临时我们会得到什么样的补偿。 这些努力是否会带来很多好处，我不敢打赌。 尽管如此，看到这么多看门狗像克努特一样站在海滩上，试图阻挡潮水，还是让人感到舒服。 这就是所有细心的作家应该注意的地方——看着每一块新的残骸，问自己: “我们需要它吗? ”
 
 I remember the first time somebody asked me, "How does that impact you?" I always thought "impact" was a noun, except in dentistry. Then I began to meet "de-impact," usually in connection with programs to de-impact the effects of some adversity. Nouns now tum overnight into verbs. We target goals and we access facts. Train conductors announce that the train won't platform. A sign on an airport door tells me that the door is alarmed. Companies are downsizing. It's part of an ongoing effort to grow the business. "Ongoing" is a jargon word whose main use is to raise morale. We face our daily job with more zest if the boss tells us it's an ongoing project; we give more willingly to institutions if they have targeted our funds for ongoing needs. Otherwise we might fall prey to disin­ centivization.
 
-我记得第一次有人问我，“这对你有什么影响? ” 我一直以为“impact”是个名词，除了在牙科里。 然后，我开始遇到“去冲击” ，通常是与减少一些不利影响的项目有关。 现在名词一夜之间变成了动词。 我们有目标，我们了解事实。 列车员报告说火车不站台了。 机场大门上的一个标志告诉我大门有警报。 公司正在缩减规模。 这是发展业务的持续努力的一部分。 “正在进行”是一个专业术语，主要用来鼓舞士气。 如果老板告诉我们这是一个正在进行的项目，我们会以更大的热情面对我们的日常工作; 如果机构已经将我们的资金用于正在进行的需求，我们会更愿意给予机构。 否则我们可能成为百分制的牺牲品。
+我记得第一次有人问我，“这对你有什么影响? ” 我一直以为“ impact”是个名词，除了在牙科里。 然后，我开始遇到“去冲击” ，通常是与减少一些不利影响的项目有关。 现在名词一夜之间变成了动词。 我们有目标，我们了解事实。 列车员报告说火车不站台了。 机场大门上的一个标志告诉我大门有警报。 公司正在缩减规模。 这是发展业务的持续努力的一部分。 “正在进行”是一个专业术语，主要用来鼓舞士气。 如果老板告诉我们这是一个正在进行的项目，我们会以更大的热情面对我们的日常工作; 如果机构已经将我们的资金用于正在进行的需求，我们会更愿意给予机构。 否则我们可能成为百分制的牺牲品。
 
 I could go on; I have enough examples to fill a book, but it's not a book I would want anyone to read. We're still left with the question: What is good usage? One helpful approach is to try to separate usage from jargon.
 

@@ -1,7 +1,6 @@
 ---
 title: Introduction
 menu_name: '导言'
-next_section: settings-and-requirements
 ---
 
 When I first wrote this book, in 1976, the readers I had in mind were a relatively small segment of the population: students, writ­ers, editors and people who wanted to learn to write. I wrote it on a typewriter, the highest technology then available. I had no inkling of the electronic marvels just around the comer that were about to revolutionize the act of writing. First came the word processor, in the 1980s, which made the computer an everyday tool for people who had never thought of themselves as writers. Then came the Internet and e-mail, in the 1990s, which com­pleted the revolution. Today everybody in the world is writing to everybody else, keeping in touch and doing business across every border and time zone.

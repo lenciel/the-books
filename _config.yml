@@ -3,7 +3,7 @@ version: 1.0.0
 name: Lenciel's Books
 description: 翻译的书以及读书笔记
 url: https://books.lenciel.com
-repository: https://github.com/jekyll/jekyll
+repository: https://github.com/lenciel/the-books
 logo: "/img/logo-2x.png"
 collections:
   on_writing_well:
